@@ -1,0 +1,6 @@
+{
+    "git.followTagsWhenSync": false,
+    "git.rebaseWhenSync": false,
+    "git.enableStatusBarSync": false,
+    "git.supportCancellation": true
+}
